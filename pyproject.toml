@@ -5,3 +5,4 @@ description = "A list of awesome remote sensing image captioning resources"
 requires-python = ">=3.10"
 # match the style used in the rest of the module
 # clarify the control flow
+# match the style used in the rest of the module

@@ -18,3 +18,4 @@ Notes and usage details for awesome-remote-image-captioning.
 - add a note about the defaults
 - add a note about the defaults
 - fix a small wording issue
+- add a note about the defaults
